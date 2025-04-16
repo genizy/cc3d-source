@@ -1,0 +1,19 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cgw7g6g7xhcla"
+path.s3tc="res://.godot/imported/tundra.png-befe8e085469212bebbf51b0fcc60b7e.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://tundra.png"
+dest_files=["res://.godot/imported/tundra.png-befe8e085469212bebbf51b0fcc60b7e.s3tc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

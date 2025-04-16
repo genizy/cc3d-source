@@ -1,0 +1,19 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b1mi45y3fjkot"
+path.s3tc="res://.godot/imported/snow.png-8fc270e39b7d8de8c01e5d1a513fe7a7.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://snow.png"
+dest_files=["res://.godot/imported/snow.png-8fc270e39b7d8de8c01e5d1a513fe7a7.s3tc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

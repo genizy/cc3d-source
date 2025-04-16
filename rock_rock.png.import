@@ -1,0 +1,22 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://daisbb8pydirt"
+path.s3tc="res://.godot/imported/rock_rock.png-57470a9b52ba633440a921c751378970.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "c9db6d9c38b0927de83b80ec6233ae13"
+}
+
+[deps]
+
+source_file="res://rock_rock.png"
+dest_files=["res://.godot/imported/rock_rock.png-57470a9b52ba633440a921c751378970.s3tc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

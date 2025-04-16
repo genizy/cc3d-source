@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://buugfjy4f2fci"
+path="res://.godot/imported/explosion-Sheet.png-2ad4d28e0dd1c7844155704c6d68d71f.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://explodesprite/explosion-Sheet.png"
+dest_files=["res://.godot/imported/explosion-Sheet.png-2ad4d28e0dd1c7844155704c6d68d71f.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

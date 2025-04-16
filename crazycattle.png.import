@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://big08kqdoi028"
+path="res://.godot/imported/crazycattle.png-35ed542c90354c4c3f9eb462b233bea2.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://crazycattle.png"
+dest_files=["res://.godot/imported/crazycattle.png-35ed542c90354c4c3f9eb462b233bea2.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

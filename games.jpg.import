@@ -1,0 +1,19 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b8e7p8gybl8ty"
+path.s3tc="res://.godot/imported/games.jpg-18072e2bb8d16a02fd07aaf5a34e24ce.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://games.jpg"
+dest_files=["res://.godot/imported/games.jpg-18072e2bb8d16a02fd07aaf5a34e24ce.s3tc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

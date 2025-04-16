@@ -1,0 +1,22 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://lnt7domg2pox"
+path.s3tc="res://.godot/imported/amazingfence_fence.png-75067a6d7e5bcda829857f147140193c.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "c5ca3c8354fae7a43dac66909aa33e1a"
+}
+
+[deps]
+
+source_file="res://amazingfence_fence.png"
+dest_files=["res://.godot/imported/amazingfence_fence.png-75067a6d7e5bcda829857f147140193c.s3tc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,22 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ba7q3ui2ia87h"
+path.s3tc="res://.godot/imported/fencircular_fencetex.png-4b40dacc361aa2b0eccc9d4657744934.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "c3690fc47cb74263d77053bbae823b6f"
+}
+
+[deps]
+
+source_file="res://fencircular_fencetex.png"
+dest_files=["res://.godot/imported/fencircular_fencetex.png-4b40dacc361aa2b0eccc9d4657744934.s3tc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

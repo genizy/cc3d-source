@@ -1,0 +1,15 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://g6mkejhefg1f"
+path="res://.godot/imported/credits.wav-14297e1db14b2d5df18841be6ff53fb4.sample"
+
+[deps]
+
+source_file="res://credits.wav"
+dest_files=["res://.godot/imported/credits.wav-14297e1db14b2d5df18841be6ff53fb4.sample"]
+
+[params]
+
+dummy_value_ignore_me=0

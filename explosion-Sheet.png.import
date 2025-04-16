@@ -1,0 +1,19 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://h0ju080swc63"
+path.s3tc="res://.godot/imported/explosion-Sheet.png-c485185d0dc9b3c0585f7c338767f287.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://explosion-Sheet.png"
+dest_files=["res://.godot/imported/explosion-Sheet.png-c485185d0dc9b3c0585f7c338767f287.s3tc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

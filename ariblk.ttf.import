@@ -1,0 +1,15 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://cvvi6o8v4r7dh"
+path="res://.godot/imported/ariblk.ttf-7acd26e65b6ae759783bcf30e1cbef0b.fontdata"
+
+[deps]
+
+source_file="res://ariblk.ttf"
+dest_files=["res://.godot/imported/ariblk.ttf-7acd26e65b6ae759783bcf30e1cbef0b.fontdata"]
+
+[params]
+
+dummy_value_ignore_me=0

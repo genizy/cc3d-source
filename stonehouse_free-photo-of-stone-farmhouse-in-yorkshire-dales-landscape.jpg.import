@@ -1,0 +1,22 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bgffx6tfb8ekx"
+path.s3tc="res://.godot/imported/stonehouse_free-photo-of-stone-farmhouse-in-yorkshire-dales-landscape.jpg-66d7928d1413bd2ffbf7e8bdf081e1be.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "200965cadf2a246edd2127fd319dd3a8"
+}
+
+[deps]
+
+source_file="res://stonehouse_free-photo-of-stone-farmhouse-in-yorkshire-dales-landscape.jpg"
+dest_files=["res://.godot/imported/stonehouse_free-photo-of-stone-farmhouse-in-yorkshire-dales-landscape.jpg-66d7928d1413bd2ffbf7e8bdf081e1be.s3tc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,19 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://p5c8db1b74b"
+path.s3tc="res://.godot/imported/rollinghills.png-86b0ed76c04fc553482c97ef9b1b797c.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://rollinghills.png"
+dest_files=["res://.godot/imported/rollinghills.png-86b0ed76c04fc553482c97ef9b1b797c.s3tc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

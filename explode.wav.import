@@ -1,0 +1,15 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cw2w314pg1hqh"
+path="res://.godot/imported/explode.wav-5228a4f8d8190fa3477fac81d1ccba49.sample"
+
+[deps]
+
+source_file="res://explode.wav"
+dest_files=["res://.godot/imported/explode.wav-5228a4f8d8190fa3477fac81d1ccba49.sample"]
+
+[params]
+
+dummy_value_ignore_me=0

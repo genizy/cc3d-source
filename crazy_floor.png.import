@@ -1,0 +1,19 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://csaymqiq7g8cj"
+path.s3tc="res://.godot/imported/crazy_floor.png-7bc8280b5d8540eb8f20468c5744f668.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://crazy_floor.png"
+dest_files=["res://.godot/imported/crazy_floor.png-7bc8280b5d8540eb8f20468c5744f668.s3tc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

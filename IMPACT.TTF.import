@@ -1,0 +1,15 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://dbj10iq6j0ahu"
+path="res://.godot/imported/IMPACT.TTF-eb1076dfcebece3b5732338fd39a5b14.fontdata"
+
+[deps]
+
+source_file="res://IMPACT.TTF"
+dest_files=["res://.godot/imported/IMPACT.TTF-eb1076dfcebece3b5732338fd39a5b14.fontdata"]
+
+[params]
+
+dummy_value_ignore_me=0

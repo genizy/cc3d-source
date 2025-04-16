@@ -1,0 +1,15 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://e5d6j8lwu6du"
+path="res://.godot/imported/world1.wav-029c80cf0dd57787a6164eac66334b6a.sample"
+
+[deps]
+
+source_file="res://world1.wav"
+dest_files=["res://.godot/imported/world1.wav-029c80cf0dd57787a6164eac66334b6a.sample"]
+
+[params]
+
+dummy_value_ignore_me=0

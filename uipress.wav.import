@@ -1,0 +1,15 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dh6pm2jo1420s"
+path="res://.godot/imported/uipress.wav-36781bcc4e1e73fb50fe9955f19cc39d.sample"
+
+[deps]
+
+source_file="res://uipress.wav"
+dest_files=["res://.godot/imported/uipress.wav-36781bcc4e1e73fb50fe9955f19cc39d.sample"]
+
+[params]
+
+dummy_value_ignore_me=0

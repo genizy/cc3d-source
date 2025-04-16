@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dx11833n71gqk"
+path="res://.godot/imported/crazy_icon.png-c634b476d8470e99b8dc0bb73ac07a2b.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://crazy_icon.png"
+dest_files=["res://.godot/imported/crazy_icon.png-c634b476d8470e99b8dc0bb73ac07a2b.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

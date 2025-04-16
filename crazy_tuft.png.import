@@ -1,0 +1,19 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://d2qd7reslk174"
+path.s3tc="res://.godot/imported/crazy_tuft.png-798640db59875912a2f588bb483687c9.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://crazy_tuft.png"
+dest_files=["res://.godot/imported/crazy_tuft.png-798640db59875912a2f588bb483687c9.s3tc.ctex"]
+
+[params]
+
+dummy_value_ignore_me=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b54qsdxvp8v5p"
+path="res://.godot/imported/options_volumetest.wav-58bf50af1618099f2ca6004cc36c7f23.sample"
+
+[deps]
+
+source_file="res://options_volumetest.wav"
+dest_files=["res://.godot/imported/options_volumetest.wav-58bf50af1618099f2ca6004cc36c7f23.sample"]
+
+[params]
+
+dummy_value_ignore_me=0
