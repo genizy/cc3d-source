@@ -6,7 +6,7 @@ It will NOT work as a web/pc game if not built.
 Download the built versions at [4nn4t4t.itch.io/crazycattle3d](https://4nn4t4t.itch.io/crazycattle3d) or play online at [gn-math.github.io](https://gn-math.github.io/?id=164) (unofficial)
 
 ## DISCLAIMBER
-All websites/social media accounts claiming to be official are not official, offical accounts below:
+All websites/social media accounts claiming to be official are not official unless specified below:
 - [Download (itch.io)](https://4nn4t4t.itch.io/crazycattle3d)
 - [X account](https://x.com/4nn4t4t)
 - [Bluesky account](https://bsky.app/profile/4nn4t4t.bsky.social)
