@@ -1,5 +1,5 @@
 # READ BELOW
-This is the unoffical, raw unedited, source code of Crazy Cattle 3D by Anna Mayberry.
+This is the **unoffical**, raw unedited, source code of Crazy Cattle 3D by Anna Mayberry.
 
 It will NOT work as a web/pc game if not built.
 
@@ -14,4 +14,4 @@ All websites/social media accounts claiming to be official are not official unle
 - [YouTube](https://www.youtube.com/@4nn4t4t)
 - [Soundcloud](https://soundcloud.com/4nn4t4t)
 
-If you downloaded a game build on a website that is NOT official (see above for official download), you have likely been infected with malware. Be careful.
+If you downloaded a game build on a website that is **NOT official** (see above for official download), you have likely been infected with malware. Be careful.
